@@ -1,0 +1,9 @@
+{
+  "name": "advent-of-code-2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type":"module",
+  "repository": "https://github.com/mitchgillin/advent-of-code-2021.git",
+  "author": "mitchgillin <mitchtgillin@gmail.com>",
+  "license": "MIT"
+}
